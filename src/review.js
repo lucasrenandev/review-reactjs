@@ -7,8 +7,8 @@ export default [
     {
         id: 1,
         img: img1,
-        name: "Call of Duty Black Ops 2",
-        description: "A campanha de Black Ops II tem duas histórias que estão interligadas, uma que decorre entre os anos 80 e 90 e a outra que acontece em 2025. O protagonista de Black Ops, Alex Mason, regressa como protagonista na sessão da Guerra Fria, onde irá lutar numa guerra de procuração pelos Estados Unidos."
+        name: "Watch Dogs 2",
+        description: "Watch Dogs 2 é ambientado na baía de São Francisco e se desenrola sob a pele de Marcus Holloway, um hacker que foi vítima dos algoritmos de previsão de crime do ctOS 2.0 e acusado injustamente de um delito que não cometeu."
     },
     {
         id: 2,
@@ -25,7 +25,7 @@ export default [
     {
         id: 4,
         img: img4,
-        name: "Watch Dogs 2",
-        description: "Watch Dogs 2 é ambientado na baía de São Francisco e se desenrola sob a pele de Marcus Holloway, um hacker que foi vítima dos algoritmos de previsão de crime do ctOS 2.0 e acusado injustamente de um delito que não cometeu."
+        name: "Call of Duty Black Ops 2",
+        description: "A campanha de Black Ops II tem duas histórias que estão interligadas, uma que decorre entre os anos 80 e 90 e a outra que acontece em 2025. O protagonista de Black Ops, Alex Mason, regressa como protagonista na sessão da Guerra Fria, onde irá lutar numa guerra de procuração pelos Estados Unidos."
     },
 ]
